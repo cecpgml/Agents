@@ -1,7 +1,7 @@
 """
 Asynchronous Modbus communication agent for VOLTTRON.
 
-##MAJID DEGHANI IS THE NOT PROBLEM
+##MAJID DEGHANI IS THE PROBLEM
 """
 
 __docformat__ = 'reStructuredText'
